@@ -1,5 +1,6 @@
 '''
 Implementation of a butterworth Filter for the ppg data filtering
+using scipy standard library
 
 '''
 # using a butterworth filter
